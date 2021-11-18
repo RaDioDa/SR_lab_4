@@ -1,0 +1,15 @@
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\bin\Debug\net5.0\SR_lab_4.exe
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\bin\Debug\net5.0\SR_lab_4.deps.json
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\bin\Debug\net5.0\SR_lab_4.runtimeconfig.json
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\bin\Debug\net5.0\SR_lab_4.runtimeconfig.dev.json
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\bin\Debug\net5.0\SR_lab_4.dll
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\bin\Debug\net5.0\ref\SR_lab_4.dll
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\bin\Debug\net5.0\SR_lab_4.pdb
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\obj\Debug\net5.0\SR_lab_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\obj\Debug\net5.0\SR_lab_4.AssemblyInfoInputs.cache
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\obj\Debug\net5.0\SR_lab_4.AssemblyInfo.cs
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\obj\Debug\net5.0\SR_lab_4.csproj.CoreCompileInputs.cache
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\obj\Debug\net5.0\SR_lab_4.dll
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\obj\Debug\net5.0\ref\SR_lab_4.dll
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\obj\Debug\net5.0\SR_lab_4.pdb
+C:\Users\Psheno\source\repos\SR_lab_4\SR_lab_4\obj\Debug\net5.0\SR_lab_4.genruntimeconfig.cache
